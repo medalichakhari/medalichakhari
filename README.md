@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGliOWxvbmpuYXkxbnQyMmF4bWIwZ2trM3AzdDZ5cHptcjg2dDF5eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif" alt="Coding"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Mohamed Ali Chakhari</h1>
 <h3 align="center">Full-Stack Engineer | React, Node.js, Flask | TypeScript & DevOps Enthusiast</h3>
 
